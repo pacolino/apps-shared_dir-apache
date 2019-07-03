@@ -1,5 +1,5 @@
-<h1>PROIECT DISERTATIE</h1>
-<h4>Autor: Alexandra Iosim</h4>
+<h1>Full web solution + monitoring deploy</h1>
+<h4>Autor: Ionut Dimache</h4>
 <h4>Data: Iunie 2019</h4>
 <?php
 $host = 'mysql';
