@@ -1,6 +1,6 @@
 <h1>Full web solution + monitoring deploy</h1>
 <h4>Autor: Ionut Dimache</h4>
-<h4>Data: Iunie 2019</h4>
+<h4>Data: MAMBO Iunie 2019</h4>
 <?php
 $host = 'mysql';
 $user = 'root';
